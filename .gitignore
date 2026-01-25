@@ -1,0 +1,30 @@
+# Executables
+bubble_seq
+bubble_par
+merge_seq
+merge_par
+
+# Object files
+*.o
+*.out
+
+# IDE/Temp files
+.DS_Store
+*.swp
+*~
+.vscode/
+.idea/
+__pycache__/
+
+# Compiled output
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Build directories
+build/
+dist/
+
+# MacOS
+*.dSYM
